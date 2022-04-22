@@ -1,6 +1,6 @@
 # Github user fetcher
 
-This project uses the [Github REST API](https://docs.github.com/en/rest) to fetch user data including their 5 latest repos. I've used [Axios](https://github.com/axios) instead of the Fetch API. 
+This project uses the [Github REST API](https://docs.github.com/en/rest) to fetch user data including their 5 latest repos. I've used [Axios](https://axios-http.com/) instead of the Fetch API. 
 
 ## Usage
 
